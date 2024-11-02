@@ -1,5 +1,6 @@
 import React from 'react'
-import SignUpForm from './components/signUpForm'
+import SignUpForm from './components/SignUpForm'
+SignUpForm
 
 
 
